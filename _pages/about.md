@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am Ph.D. student at Vanderbilt University since Sep~2021. My research focuses on developing advanced computational methods to facilitate real-time reliability and risk assessment in various engineering areas. I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use Bayesian inference, probabilistic modeling, stochastic optimization and machine learning in my research. I am highly self-motivated and passionate to solve problems heads-on. I also enjoy teamwork and communicating with people from different cultural background. Before Ph.D., I received his M.Sc. in Mechanical Engineering in UAE and B.Eng. in China, I also studied in Australia as exchange student in 2019. Because of the diverse experience, I have developed the capacity of effective communication, and working with people from different ethnic and cultural background. I am highly self-motivated and learns new knowledge and skills quickly, I am always passionate to solve problems and challenges heads-on.
+
+
+
+
+
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
