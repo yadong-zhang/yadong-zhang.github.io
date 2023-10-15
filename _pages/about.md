@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021. My research focuses on developing advanced computational methods to facilitate real-time reliability and risk assessment in various engineering areas. I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use Bayesian inference, probabilistic modeling, stochastic optimization and machine learning in my research. Before Ph.D., I received his M.Sc. in Mechanical Engineering in UAE and B.Eng. in China, I also studied in Australia as exchange student in 2019. Because of the diverse experience, I have developed the capacity of effective communication, and working with people from different ethnic and cultural background. I am highly self-motivated and learns new knowledge and skills quickly, I am always passionate to solve problems and challenges heads-on.
+About me
+========
+I am Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021.  Before Ph.D., I received his M.Sc. in Mechanical Engineering from [Khalifa University of Science and Technology](https://www.ku.ac.ae) in UAE and B.Eng. from [China University of Petrolem](https://www.upc.edu.cn) in China. I also studied at [Curtin University](https://www.curtin.edu.au) in Australia as exchange student in 2019. Because of the diverse experience, I have developed the capacity of effective communication, and working with people from different ethnic and cultural background.
+
+Research
+========
+My research focuses on developing advanced computational methods to facilitate real-time reliability and risk assessment in various engineering areas. I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use Bayesian inference, probabilistic modeling, stochastic optimization and machine learning in my research. I am highly self-motivated and learns new knowledge and skills quickly, I am always passionate to solve problems and challenges heads-on.
+
+
+News
+====
 
 
 
