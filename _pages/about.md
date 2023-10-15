@@ -11,9 +11,9 @@ I am a Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu) sinc
 
 Research
 ========
-My research lies in the area of uncertainty quantification. Specifially, I develop advanced computational methods and frameworks to facilitate the real-time reliability and risk assessment in various engineering disciplines. \\
+My research lies in the area of uncertainty quantification. Specifially, I develop advanced computational methods and frameworks to facilitate the real-time reliability and risk assessment in various engineering disciplines.
 
-One of the major application is power grid operational risk analysis. Power grid consists of thouands to millions buses (loads and generators), transmission lines and other necessary components (transformers, shunts, etc). The fundamental principle of power grid operation is to balance demand and supply while minimize the overall power generation cost. However, grid varibales are changing all the time, and the penetration of renewable energy resources (e.g., wind, solar, wave), plugin devices (e.g., electric vihecle), etc. impose considerable uncertainty to grid operation, since they are less predictable. 
+One of the major application of my research is power grid operational risk analysis. Power grid consists of thouands to millions buses (loads and generators), transmission lines and other necessary components (transformers, shunts, etc). The fundamental principle of power grid operation is to balance demand and supply while minimize the overall power generation cost. However, grid varibales are changing all the time, and the penetration of renewable energy resources (e.g., wind, solar, wave), plugin devices (e.g., electric vihecle), etc. impose considerable uncertainty to grid operation, since they are less predictable. 
 
 
 I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use Bayesian inference, probabilistic modeling, stochastic optimization and machine learning in my research.
