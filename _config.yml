@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yadong Zhang"
-  avatar           : "yadong-zhang.jpeg"
+  avatar           : "images/yadong-zhang.jpeg"
   bio              : "Ph.D. student in Civil Engineering at Vanderbilt University"
   location         : "Nashville, TN, USA"
   # employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yadong-zhang"
+  github           : "https://github.com/yadong-zhang"
   google_plus      :
   keybase          :
   instagram        :
