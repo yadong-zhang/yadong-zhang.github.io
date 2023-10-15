@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yadong Zhang"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yadong Zhang"
-description              : &description "Yadong Zhang's personal website"
-url                      : https://yadong-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yadong-zhang/yadong-zhang.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yadong Zhang"
-  avatar           : "images/yadong-zhang.jpeg"
-  bio              : "Ph.D. student in Civil Engineering at Vanderbilt University"
-  location         : "Nashville, TN, USA"
-  # employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=74tXqZ0AAAAJ&view_op=list_works&authuser=1&gmla=AJ1KiT33sel3H6G3Ob_9L7911fslE8m6siYNAaVAjdSyNFozA6XQByPqTGNnGw1DE2uCSG8QsM7R0IhHld11iMZFIcwAJc1EJI5f-Q"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yadong-zhang"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yadong-zhang-638a67210/""
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7113-1567"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ya_dong_zhang"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
