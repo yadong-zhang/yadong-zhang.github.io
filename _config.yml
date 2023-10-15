@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yadong Zhang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "yadong-zhang.jpeg"
+  bio              : "Ph.D. student in Civil Engineering at Vanderbilt University"
+  location         : "Nashville, TN, USA"
+  # employer         :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=74tXqZ0AAAAJ&view_op=list_works&authuser=1&gmla=AJ1KiT33sel3H6G3Ob_9L7911fslE8m6siYNAaVAjdSyNFozA6XQByPqTGNnGw1DE2uCSG8QsM7R0IhHld11iMZFIcwAJc1EJI5f-Q"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yadong-zhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yadong-zhang-638a67210/""
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7113-1567"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/ya_dong_zhang"
   vine             :
   weibo            :
   xing             :
