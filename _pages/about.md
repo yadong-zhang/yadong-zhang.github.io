@@ -11,7 +11,7 @@ I am Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu) since 
 
 Research
 ========
-My research laies 
+My research lies in the broad area of uncertainty quantification. Specifially, I develop advanced computational methods and frameworks to facilitate the real-time reliability and risk assessment in various engineering disciplines. One of the major application is 
 
 
 I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use Bayesian inference, probabilistic modeling, stochastic optimization and machine learning in my research.
