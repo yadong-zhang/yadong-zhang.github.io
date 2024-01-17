@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student at [Department of Civil and Environmental Engineering](https://engineering.vanderbilt.edu//cee/) at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021.
 
-** I am actively looking for interns and full-time jobs, please reach out if you have openings! **
+**I am actively looking for interns and full-time jobs, please reach out if you have openings!**
 
 Research
 ========
