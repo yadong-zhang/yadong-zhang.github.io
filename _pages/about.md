@@ -31,7 +31,7 @@ Education
 
   M.Sc., Mechanical Engineering         Sep 2019 - June 2021
 
-**China University if Petroleum**, Qingdao, Shandong, China
+**China University of Petroleum**, Qingdao, Shandong, China
 
   Bachelors's, Petroleum Engineering    Sep 2015 - June 2019
 
