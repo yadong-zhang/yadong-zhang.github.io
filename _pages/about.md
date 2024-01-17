@@ -25,15 +25,15 @@ Education
 =========
 **Vanderbilt University**, TN, USA
 
-Ph.D., Civil Engineering              Sep 2021 - present
+  Ph.D., Civil Engineering              Sep 2021 - present
 
 **Khalifa University of Science and Technology**, Abu Dhabi, UAE
 
-M.Sc., Mechanical Engineering         Sep 2019 - June 2021
+  M.Sc., Mechanical Engineering         Sep 2019 - June 2021
 
 **China University if Petroleum**, Qingdao, Shandong, China
 
-Bachelors's, Petroleum Engineering    Sep 2015 - June 2019
+  Bachelors's, Petroleum Engineering    Sep 2015 - June 2019
 
 
 
