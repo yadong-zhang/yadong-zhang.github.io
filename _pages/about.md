@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at [Department of Civil and Environmental Engineering](https://engineering.vanderbilt.edu//cee/) at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021.
+I am a Ph.D. student at [Department of Civil and Environmental Engineering](https://engineering.vanderbilt.edu//cee/) at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021. My research focuses on developing *advanced computational methods* to facilitate *reliability and risk assessment* in various engineering areas. I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use *Bayesian inference*, *probabilistic modeling*, *stochastic optimization* and *neural networks* in my research. I am highly self-motivated and passionate to solve problems heads-on. I also enjoy teamwork and communicating with people from different cultural background.
 
 **I am actively looking for interns and full-time jobs, please reach out if you have openings!**
 
