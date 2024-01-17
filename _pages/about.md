@@ -9,15 +9,22 @@ redirect_from:
 ---
 I am a Ph.D. student at [Department of Civil and Environmental Engineering](https://engineering.vanderbilt.edu//cee/) at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021. My research focuses on developing *advanced computational methods* to facilitate *reliability and risk assessment* in various engineering areas. I have solid background in engineering, mathematics, statistics, computer science, etc., and I extensively use *Bayesian inference*, *probabilistic modeling*, *stochastic optimization* and *neural networks* in my research. I am highly self-motivated and passionate to solve problems heads-on. I also enjoy teamwork and communicating with people from different cultural background.
 
+
+
 **I am actively looking for interns and full-time jobs, please reach out if you have openings!**
 
-Research
-========
-My research lies in the domain of uncertainty quantification. Specifially, I develop advanced computational methods and frameworks to facilitate reliability and risk assessment in various engineering disciplines.
 
-One of the major applications of my research is power grid operational risk analysis. Power grid consists of thouands to millions buses (loads and generators), transmission lines and other components (transformers, shunts, etc). The fundamental principle of power grid operation is to balance demand and supply while minimize the overall power generation cost. However, grid varibales often manifest strong spatio-temporal dependency and change all the time, thus it is intractable to simulate their behavior. Moreover, modern power grids increasingly integrate uncertain sources (e.g., wind, solar, wave) and flexiblt plugin devices (e.g., electric vihecle), which imposes considerable volatility to grid operation, necessitating the utilization of advanced real-time reliability and risk quantification techniques to improve operators' situational awareness. 
+Education
+=========
+*Vanderbilt University*, TN, USA
+Ph.D., Civil Engineering              Sep 2021 - present
 
-In my research, on the one hand, I develop highly efficient and accurate surrogate models as alternative to computationally expensive MILP solvers to solve security-constrained unit commitment (SCUC) and security-constrained economic dispatch (SCED) problems. Surrogate models are developed based on machine learning algorithms, especially graph neural network (GNN). On the other hand, I propose novel reliability and risk assessment framework that can used to quantify the potential risk of individual component as well as the entire system. 
+*Khalifa University*, Abu Dhabi, UAE
+M.Sc., Mechanical Engineering         Sep 2019 - June 2021
+
+*China University if Petroleum*, Qingdao, Shandong, China
+Bachelors's, Petroleum Engineering    Sep 2015 - June 2019
+
 
 
 News
