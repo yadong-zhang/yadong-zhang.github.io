@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021.  Before Ph.D., I received his M.Sc. in Mechanical Engineering from [Khalifa University of Science and Technology](https://www.ku.ac.ae) in 2021 and B.Eng. from [China University of Petrolem](https://www.upc.edu.cn) in 2019. I also studied at [Curtin University](https://www.curtin.edu.au) in Australia as visiting student in 2019. Because of the diverse experience, I have developed the awareness of teamwork and effective communication. I like working with people from different ethnic and cultural background. I am highly self-motivated, always passionate to solve problems and challenges heads-on.
+I am a Ph.D. student at [Department of Civil and Environmental Engineering](https://engineering.vanderbilt.edu//cee/) at [Vanderbilt University](https://www.vanderbilt.edu) since Sep 2021.
 
 Research
 ========
