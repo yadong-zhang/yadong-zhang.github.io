@@ -24,7 +24,7 @@ I am a Ph.D. student at [Department of Civil and Environmental Engineering](http
 Education
 =========
 **Vanderbilt University**, TN, USA
-
+<br><br>
   Ph.D., Civil Engineering              Sep 2021 - present
 
 **Khalifa University of Science and Technology**, Abu Dhabi, UAE
