@@ -16,7 +16,7 @@ Education
 
 **Vanderbilt University**, TN, USA
 
-  Ph.D., Civil Engineering              Sep 2021 - present
+&nbsp Ph.D., Civil Engineering              Sep 2021 - present
 
 **Khalifa University of Science and Technology**, Abu Dhabi, UAE
 
