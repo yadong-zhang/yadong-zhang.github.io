@@ -13,9 +13,13 @@ I am a Ph.D. student at [Department of Civil and Environmental Engineering](http
 
 **I am actively looking for 
 <span style="color:red"> 
-Text content 
-</span> and 
-full-time jobs, please reach out if you have openings!**
+Interns 
+</span> 
+and 
+<span style="color: red">
+Full-time 
+</span>
+jobs, please reach out if you have openings!**
 
 &nbsp;  
 
@@ -24,15 +28,15 @@ Education
 
 **Vanderbilt University**, TN, USA
 
-* Ph.D., Civil Engineering               Sep 2021 - Dec 2024 (Expected)
+* Ph.D., Civil Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2021 - Dec 2024 (Expected)
 
 **Khalifa University of Science and Technology**, Abu Dhabi, UAE
 
-*  M.Sc., Mechanical Engineering         Sep 2019 - June 2021
+*  M.Sc., Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2019 - June 2021
 
 **China University of Petroleum**, Qingdao, Shandong, China
 
-* Bachelors's, Petroleum Engineering     Sep 2015 - June 2019
+* Bachelors's, Petroleum Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2015 - June 2019
 
 
 
