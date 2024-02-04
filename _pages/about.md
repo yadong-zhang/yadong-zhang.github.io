@@ -11,7 +11,11 @@ I am a Ph.D. student at [Department of Civil and Environmental Engineering](http
 
 &nbsp;  
 
-**I am actively looking for interns and full-time jobs, please reach out if you have openings!**
+**I am actively looking for 
+<span style="color:red"> 
+Text content 
+</span> and 
+full-time jobs, please reach out if you have openings!**
 
 &nbsp;  
 
