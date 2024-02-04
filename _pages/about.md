@@ -37,9 +37,3 @@ Education
 **China University of Petroleum**, Qingdao, Shandong, China
 
 * Bachelor's, Petroleum Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2015 - June 2019
-
-&nbsp;  
-
-
-News
-====
